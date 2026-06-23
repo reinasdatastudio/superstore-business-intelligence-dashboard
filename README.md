@@ -4,12 +4,12 @@
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?logo=rstudio&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-purple)
-![Reproducible Research](https://img.shields.io/badge/Reproducible-Research-success)
+![Reproducible Workflow](https://img.shields.io/badge/Reproducible-Workflow-success)
 
 An interactive **R Shiny** dashboard for exploring sales performance, profitability, customer segments, and regional trends through dynamic filtering and business intelligence visualisations.
 
 ### **Interactive Dashboard**
-https://thequeenofdata.shinyapps.io/Superstore/
+[Interactive Superstore Business Intelligence Dashboard(]https://thequeenofdata.shinyapps.io/Superstore/)
 
 ## Overview
 
@@ -74,7 +74,7 @@ https://reinasdatastudio.github.io/webpage/
 地域や年度を自由に切り替えながら、売上、利益、顧客セグメントなどの主要指標をリアルタイムで分析できるよう設計しています。経営指標を直感的に把握し、データに基づく意思決定を支援することを目的としています。
 
 ### **デモアプリ**
-https://thequeenofdata.shinyapps.io/Superstore/
+[Interactive Superstore Business Intelligence Dashboard](https://thequeenofdata.shinyapps.io/Superstore/)
 
 ## 主な機能
 
